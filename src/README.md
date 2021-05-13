@@ -1,5 +1,5 @@
 
-# Cinema.
+# Calculator.
 My implementation of a calculator for the provision of a mortgage by the bank. It implements such things as
 - payment per month
 - mortgage overpayment
